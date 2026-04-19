@@ -68,7 +68,7 @@ These issues increase workload, delay service delivery, and reduce client satisf
 ## Phase 3 — Process Modelling (BPMN)
 
 ### As-Is Process
-
+<img width="2596" height="2110" alt="As-Is Process - Main process" src="https://github.com/user-attachments/assets/8f1ffccc-b4d0-49c8-839b-8c19f7af1fb2" />
 The current workflow is modelled using BPMN across multiple subprocesses:
 
 - Create Assignment  
@@ -83,6 +83,8 @@ These models highlight bottlenecks, delays, and unnecessary handoffs.
 
 
 ### To-Be Process (Redesigned)
+
+<img width="2554" height="2370" alt="TO-BE Process - Main Process" src="https://github.com/user-attachments/assets/5f37777f-e24c-48e1-9adf-90d77014972a" />
 
 The improved process introduces key changes:
 
