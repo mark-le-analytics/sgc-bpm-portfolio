@@ -65,7 +65,7 @@ These issues increase workload, delay service delivery, and reduce client satisf
 
 
 
-## 🔧 Phase 3 — Process Modelling (BPMN)
+## Phase 3 — Process Modelling (BPMN)
 
 ### As-Is Process
 
